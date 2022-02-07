@@ -4,7 +4,7 @@ Bank App
 *Build and Run*
 -------------
 1. Run in the command line:
-   `mvn vaadin:prepare-frontend`, `mvn package`
+   `mvn package`
    
 2. Run `mvn spring-boot:run` or launch `Main` class
 
